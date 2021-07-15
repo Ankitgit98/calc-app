@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/calc-app/static/css/main.2d783f71.chunk.css",
+    "main.js": "/calc-app/static/js/main.2f4adaf3.chunk.js",
+    "main.js.map": "/calc-app/static/js/main.2f4adaf3.chunk.js.map",
+    "runtime-main.js": "/calc-app/static/js/runtime-main.d332dccd.js",
+    "runtime-main.js.map": "/calc-app/static/js/runtime-main.d332dccd.js.map",
+    "static/js/2.61ad9171.chunk.js": "/calc-app/static/js/2.61ad9171.chunk.js",
+    "static/js/2.61ad9171.chunk.js.map": "/calc-app/static/js/2.61ad9171.chunk.js.map",
+    "index.html": "/calc-app/index.html",
+    "static/css/main.2d783f71.chunk.css.map": "/calc-app/static/css/main.2d783f71.chunk.css.map",
+    "static/js/2.61ad9171.chunk.js.LICENSE.txt": "/calc-app/static/js/2.61ad9171.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d332dccd.js",
+    "static/js/2.61ad9171.chunk.js",
+    "static/css/main.2d783f71.chunk.css",
+    "static/js/main.2f4adaf3.chunk.js"
+  ]
+}
